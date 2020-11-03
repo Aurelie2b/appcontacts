@@ -6,11 +6,11 @@ export default function Header() {
         <div>
             <nav className='navbar navbar-dark bg-primary mb-3 py-0'>
                 <div className='container'>
-                    <a href="/" className="navbar-brand">Learn React</a>
+                    <a href="/Accueil" className="navbar-brand">Learn React</a>
                 
                     <ul className="navbar-nav d-inline-block">
                         <li className="nav-item d-inline-block mr-2">
-                            <a href="/" className="nav-link">Accueil</a>
+                            <a href="/Accueil" className="nav-link">Accueil</a>
                         </li>
                         <li className="nav-item d-inline-block mr-2">
                             <Link to="/AddContact" className="nav-link">Ajouter contact</Link>
