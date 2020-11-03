@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Aurelie2b/appcontacts/static/js/main.f9499f9a.chunk.js",
-    "main.js.map": "/Aurelie2b/appcontacts/static/js/main.f9499f9a.chunk.js.map",
-    "runtime-main.js": "/Aurelie2b/appcontacts/static/js/runtime-main.d288ca00.js",
-    "runtime-main.js.map": "/Aurelie2b/appcontacts/static/js/runtime-main.d288ca00.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/Aurelie2b/appcontacts/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.67fd3f41.chunk.js": "/Aurelie2b/appcontacts/static/js/2.67fd3f41.chunk.js",
-    "static/js/2.67fd3f41.chunk.js.map": "/Aurelie2b/appcontacts/static/js/2.67fd3f41.chunk.js.map",
-    "index.html": "/Aurelie2b/appcontacts/index.html",
-    "precache-manifest.dc3ba06935311a114d600aa94e307e23.js": "/Aurelie2b/appcontacts/precache-manifest.dc3ba06935311a114d600aa94e307e23.js",
-    "service-worker.js": "/Aurelie2b/appcontacts/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/Aurelie2b/appcontacts/static/css/2.af3c1da9.chunk.css.map",
-    "static/js/2.67fd3f41.chunk.js.LICENSE.txt": "/Aurelie2b/appcontacts/static/js/2.67fd3f41.chunk.js.LICENSE.txt"
+    "main.js": "/appcontacts/static/js/main.f9499f9a.chunk.js",
+    "main.js.map": "/appcontacts/static/js/main.f9499f9a.chunk.js.map",
+    "runtime-main.js": "/appcontacts/static/js/runtime-main.1cb5ec18.js",
+    "runtime-main.js.map": "/appcontacts/static/js/runtime-main.1cb5ec18.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/appcontacts/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67fd3f41.chunk.js": "/appcontacts/static/js/2.67fd3f41.chunk.js",
+    "static/js/2.67fd3f41.chunk.js.map": "/appcontacts/static/js/2.67fd3f41.chunk.js.map",
+    "index.html": "/appcontacts/index.html",
+    "precache-manifest.5f1e2cb780e25c03811423d9ce2ce95c.js": "/appcontacts/precache-manifest.5f1e2cb780e25c03811423d9ce2ce95c.js",
+    "service-worker.js": "/appcontacts/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/appcontacts/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.67fd3f41.chunk.js.LICENSE.txt": "/appcontacts/static/js/2.67fd3f41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d288ca00.js",
+    "static/js/runtime-main.1cb5ec18.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.67fd3f41.chunk.js",
     "static/js/main.f9499f9a.chunk.js"
